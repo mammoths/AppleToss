@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleToss", "AppleToss.csproj", "{7D86F03D-F09E-97B6-5C2D-A97114453754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleToss.Editor", "AppleToss.Editor.csproj", "{22D99152-F92B-EC65-9FB4-E20A25597465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D86F03D-F09E-97B6-5C2D-A97114453754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D86F03D-F09E-97B6-5C2D-A97114453754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D86F03D-F09E-97B6-5C2D-A97114453754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D86F03D-F09E-97B6-5C2D-A97114453754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D99152-F92B-EC65-9FB4-E20A25597465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D99152-F92B-EC65-9FB4-E20A25597465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D99152-F92B-EC65-9FB4-E20A25597465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D99152-F92B-EC65-9FB4-E20A25597465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

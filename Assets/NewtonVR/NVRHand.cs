@@ -298,9 +298,11 @@ namespace NewtonVR
 
                 if (HoldButtonDown == true)
                 {
+                   
                     if (CurrentlyInteracting == null)
                     {
                         PickupClosest();
+                       
                     }
                 }
                 else if (HoldButtonUp == true && CurrentlyInteracting != null)
